@@ -69,7 +69,7 @@ cmd > dnvm upgrade
 
 ## Adding your project to Github
 8. git init
-8. git add README.md
+8. git add .
 8. git commit -m "first commit"
 8. git remote add origin https://github.com/codepic/vs-code-mvc6-cmd.git
 8. git push -u origin master
