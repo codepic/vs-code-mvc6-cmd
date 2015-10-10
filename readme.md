@@ -1,6 +1,6 @@
 # What's this?
 
-It's just me our of curiosity playing around with Visual Studio Code, Chocolatey, Yeoman, DNX, MVC6 and what not.
+It's just me out of curiosity playing around with Visual Studio Code, Chocolatey, Yeoman, DNX, MVC6 and what not.
 
 ## Keyboard only
 
